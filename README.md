@@ -4,13 +4,7 @@ info@inove.com.ar\
 Web: [Inove](http://inove.com.ar)
 
 # Proyecto 1 [Desarrollador Web]
-En este repositorio encontrarán las siguientes carpetas:
-
-__Ejemplos que el profesor mostrará en clase__\
-ejemplos_clase/
-
-__Ejercicios para que el alumno desarrolle lo visto en clase__\
-ejercicios_practica/
+En este repositorio encontrarás un ejemplo de como elaborar un proyecto de portfolio basado en los conceptos vistos en el curso de Desarrollador Web.
 
 # Consultas
 alumnos@inove.com.ar
